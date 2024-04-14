@@ -1,0 +1,12 @@
+NAME,PRICE,PROBA,CONSUMABLE,ATK,PV,DEF
+Les produits laitiers,5,0.9,true,0,10,25,
+La gueule de,30,0.4,true,0,50,0,
+8 morts 6 blessés,50,0.5,true,70,0,0,
+Atchoum,20,0.7,true,20,0,0,
+Est-ce que c'est bon pour vous,40,0.7,true,30,20,0,
+Relique de la mort,150,0.1,true,500,-250,0,
+Item banal,90,0.1,true,100,0,0,
+La bonne binouse,75,0.1,true,0,100,50,
+Thunderbolt,10,0.8,true,25,0,0,
+Pansement,10,0.8,true,0,40,0,
+Cum Cum Pistol,40,0.4,true,20,0,0,

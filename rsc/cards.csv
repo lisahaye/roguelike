@@ -1,0 +1,13 @@
+NAME,PRICE,DESC,TYPE,PROBA,CONSUMABLE,ATK,PV,DEF,SHIELD
+Boule de feu,20,Lance une boule de feu sur les monstres,FIRE,0.85,true,30,0,0,0,
+Décharge électrique,20,Envoie une décharge électrique sur les monstres,ELECTRIC,0.85,true,30,0,0,0,
+Potion paralysante,30,Paralyse les monstres pendant 1 tour,,0.88,true,0,0,0,0,
+Poison,30,Empoisonne les monstres pendant 3 tours,PLANT,0.88,true,10,0,0,0,
+Coronavirus,50,Empoisonne les monstres pendant 5 tours,PLANT,0.93,true,10,0,0,0,
+Glace,60,Gèle les monstres pendant 2 tours les empêchant d'attaquer et leur infligeant des dégâts,AQUA,0.95,true,5,0,0,0,
+Bouclier,60,Augmente la défense de 10 jusqu'à la fin du combat,,0.95,true,0,0,10,0,
+Super bouclier,120,Augmente la défense de 20 jusqu'à la fin du combat,,0.02,true,0,0,20,0,
+Potion,20,Soigne le joueur de 20 pv,,0.15,true,0,2,0,0,
+Super potion,45,Soigne les joueurs de 50 pv,,0.08,true,0,5,0,0,
+Hyper potion,80,Soigne les joueurs de 100 pv,,0.03,true,0,1,0,0,
+Potion max,150,Soigne complètement les joueurs et leur rajoute 50 en shield,,0.01,true,0,0,50,0,
